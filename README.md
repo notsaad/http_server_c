@@ -1,0 +1,4 @@
+- trying to create a http server in c
+- objectives:
+    - learn c better
+    - understand http servers on a deeper level
